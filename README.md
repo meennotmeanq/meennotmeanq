@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm meennotmeanq 👋
 
-<!--
-**meennotmeanq/meennotmeanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Backend Developer Intern (Starting April 2026)
+ปัจจุบันผมเป็นนักศึกษาชั้นปีที่ 3 สาขาคอมพิวเตอร์ธุรกิจ คณะวิทยาการจัดการ มหาวิทยาลัยราชภัฏภูเก็ต ที่กำลังมุ่งมั่นพัฒนาทักษะด้าน Backend เพื่อเตรียมพร้อมสำหรับการฝึกงานในช่วงเดือนเมษายนถึงพฤษภาคม 2026 นี้ครับ
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** PHP, JavaScript, TypeScript
+- **Frameworks:** Laravel v10
+- **Databases:** MySQL
+- **Tools:** VS Code, Git
+
+---
+
+### 📖 Currently Learning
+- 🚀 พัฒนาทักษะ **PHP & Laravel Framework** ให้เชี่ยวชาญยิ่งขึ้นสำหรับการทำงานจริง
+- 🤝 ศึกษาการใช้งาน **Git** สำหรับการทำงานร่วมกันเป็นทีม (Team Collaboration)
+- 🌍 เปิดรับการเรียนรู้ **Backend Languages** ใหม่ๆ ในอนาคต
+
+---
+
+### ✨ Featured Project
+- **Room Booking System:** ระบบจองห้องพัก/ห้องเรียนสำหรับอาคารคณะวิทยาการจัดการ พัฒนาโดยใช้ Laravel และ MySQL
+
+---
+
+### ☕ Beyond Coding
+- 🎮 **Gamer:** ชื่นชอบการเล่นเกมแนว FPS เช่น Valorant, Apex Legends, CS2 และ PUBG
+- ☕ **Coffee Lover:** ขับเคลื่อนการเขียน Code ด้วยกาแฟ
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=meennotmeanq&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meennotmeanq&layout=compact&theme=tokyonight)
