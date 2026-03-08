@@ -29,8 +29,3 @@
 - 🎮 **Gamer:** ชื่นชอบการเล่นเกมแนว FPS เช่น Valorant, Apex Legends, CS2 และ PUBG
 - ☕ **Coffee Lover:** ขับเคลื่อนการเขียน Code ด้วยกาแฟ
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meennotmeanq&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meennotmeanq&layout=compact&theme=tokyonight)
